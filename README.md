@@ -1,5 +1,5 @@
 # RAGDWAREuz
-RAGDWAREuz - Retrieval-Augmented Generation for DataWarehouse Academic Retrieval Engine
+RAGDWAREuz - Retrieval-Augmented Generation for a DataWarehouse Academic Retrieval Engine
 
 <img src="/images/RAGDWAREuz-logo.png" alt="RAGDWAREuz" width="200"/>
 
