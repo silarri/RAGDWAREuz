@@ -29,7 +29,7 @@ RAGDWAREuz represents our work for the development of a virtual assistant using 
 
 # Logos
 
-<img src="/images/NEAT-AMBIENCE.png" width="30%"> <img src="/images/NEAT-AMBIENCE-funder.png" alt="Funded by MICIU/AEI/10.13039/501100011033 (project PID2020-113037RB-I00)">
+<img src="/images/NEAT-AMBIENCE.png" width="30%"> <img src="/images/NEAT-AMBIENCE-logoAcks.jpg" alt="Funded by MICIU/AEI/10.13039/501100011033 (project PID2020-113037RB-I00)">
 
 <img src="/images/COS2MOS-LOGO.png" alt="COSMOS" width="30%">
 
