@@ -1,7 +1,7 @@
 # RAGDWAREuz
 RAGDWAREuz - Retrieval-Augmented Generation for DataWarehouse Academic Retrieval Engine
 
-<img src="/images/RAGDWAREuz" alt="RAGDWAREuz" width="200"/>
+<img src="/images/RAGDWAREuz-logo.png" alt="RAGDWAREuz" width="200"/>
 
 RAGDWAREuz represents our work for the development of a virtual assistant using RAG (Retrieval Augmented Generation) to facilitate the exploitation of data cubes available in the data warehouse of the University of Zaragoza (DATUZ), offering contextual recommendations and interactive support. In addition, we attempt to create an educational environment with fictitious data cubes and practical exercises to strengthen training in data analysis and multidimensional modeling, which can be applied in the teaching of subjects on this topic. In the future, this work could be extended to encompass other types of data warehouses or institutions.
 
@@ -33,5 +33,5 @@ RAGDWAREuz represents our work for the development of a virtual assistant using 
 
 <img src="/images/COS2MOS-LOGO.png" alt="COSMOS" width="30%">
 
-<img src="/images/RAGDWAREuz.png" alt="RAGDWAREuz" width="200"/>
+<img src="/images/RAGDWAREuz-logo.png" alt="RAGDWAREuz" width="200"/>
 
