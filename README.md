@@ -25,8 +25,8 @@ RAGDWAREuz represents our work for the development of a virtual assistant using 
 
 # Acknowledgments
 
-- Carlos de Vera Sanz (student at the University of Zaragoza) developed a related academic project (TFG - Trabajo Fin de Grado) titled "RAG to facilitate the use of DATUZ and learning about data warehouses" (as well as the associated prototype), supervised by Sergio Ilarri and María Belén Gracia. Original repositories (last access: July 15, 2025):
-  [https://github.com/carloss4dv/RAGDWAREuz](https://github.com/carloss4dv/RAGDWAREuz) and [https://github.com/carloss4dv/MDX_LEARN](https://github.com/carloss4dv/MDX_LEARN).
+- Carlos de Vera Sanz (student at the University of Zaragoza) developed a related academic project (TFG - Trabajo Fin de Grado) titled "RAG to facilitate the use of DATUZ and learning about data warehouses" (as well as the associated prototypes), supervised by Sergio Ilarri and María Belén Gracia. Original repositories (last access: July 15, 2025):
+  [https://github.com/carloss4dv/RAGDWAREuz](https://github.com/carloss4dv/RAGDWAREuz) and [https://github.com/carloss4dv/MDX_LEARN](https://github.com/carloss4dv/MDX_LEARN). As of July 15, 2025, the code contained here is available in those repositories.
 
 # Logos
 
